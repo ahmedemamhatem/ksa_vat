@@ -1,6 +1,5 @@
-.DS_Store
+node_modules/
+__pycache__/
 *.pyc
-*.egg-info
-*.swp
-tags
-ksa_vat/docs/current
+*.egg-info/
+.DS_Store
